@@ -4,23 +4,27 @@
 }
 
 .izquierda{
-   
+   background-color: aquamarine;
     width: 60%;
     height: 100vh;
 
 }
 
 .derecha{
+    background-color: aqua;
+   
     width: 40%;
     height: 100vh;
 }
 
 #seccion {
+    background-color: brown;
     display: flex;
+    padding: 5px 10%;
 }
 
 .footer{
-    background-color: aqua;
+
     height: 85px;
-    padding: 5px 10%;
+    padding: 2% 9%;
 }

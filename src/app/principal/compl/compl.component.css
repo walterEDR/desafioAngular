@@ -1,4 +1,6 @@
 
+
+
 #compl img{
     padding: 20px 16px;
     width: 96%;
@@ -8,6 +10,8 @@
 #compl #divicion{
     display: flex;
     align-items: center;
+    
+    
 }
 
 #derecho {
@@ -29,7 +33,7 @@
     
 }
 #izquierdo p{
-    font-size: 35px;
+    font-size: 30px;
    
 }
 #izquierdo a{

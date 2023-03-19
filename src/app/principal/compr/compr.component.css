@@ -8,18 +8,18 @@ div{
    
 }
 #noticias h3{
-    font-size: 55px;
+    font-size: 36px;
 }
 .nav_links {
     list-style: none;
 }
 #noticias .nav_links li a{
-    font-size: 40px;
+    font-size: 28px;
     text-decoration: none;
     color: aliceblue;
 }
 #noticias .nav_links li p{
-    font-size: 30px;
+    font-size: 20px;
     
     color: rgb(148, 166, 182);
 }
