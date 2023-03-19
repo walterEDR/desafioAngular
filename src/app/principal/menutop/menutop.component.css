@@ -1,0 +1,59 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,100&family=Roboto+Mono:ital,wght@0,400;1,700&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Mono', monospace;
+    
+  
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    height: 85px;
+    padding: 5px 10%;
+}
+
+ .header .menss h1{
+   font-family: 'Roboto Mono', monospace;
+  
+   width: auto;
+   align-items: left;
+   
+   
+}
+
+
+.header .nav_links{
+list-style: none;
+}
+
+.header .nav_links li{
+    display: inline-block;
+    padding: 0 10px;
+    font-size: 20px;
+
+}
+
+.header .nav_links li:hover{
+   transform: scale(1.1);
+
+}
+.header .nav_links a{
+   
+    font-size: 700;
+    color:  grey;
+    text-decoration: none;
+
+  }
+  .header .nav_links li a:hover{
+   color: aqua;
+    
+
+  }  
+
+

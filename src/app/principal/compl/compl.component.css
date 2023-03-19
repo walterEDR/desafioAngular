@@ -1,0 +1,42 @@
+
+#compl img{
+    padding: 20px 16px;
+    width: 96%;
+   
+}
+
+#compl #divicion{
+    display: flex;
+    align-items: center;
+}
+
+#derecho {
+   
+    padding: 16px;
+    height: auto;
+    width: 50%;
+    
+}
+
+#derecho h1{
+    font-size: 60px;
+}
+#izquierdo{
+   
+        padding: 16px;
+        height: auto;
+        width: 50%;
+    
+}
+#izquierdo p{
+    font-size: 35px;
+   
+}
+#izquierdo a{
+    border: solid rgb(255, 94, 0);
+    padding: 16px;
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(226, 72, 16);
+
+}

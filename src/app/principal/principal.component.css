@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.izquierda{
+   
+    width: 60%;
+    height: 100vh;
+
+}
+
+.derecha{
+    width: 40%;
+    height: 100vh;
+}
+
+#seccion {
+    display: flex;
+}
+
+.footer{
+    background-color: aqua;
+    height: 85px;
+    padding: 5px 10%;
+}

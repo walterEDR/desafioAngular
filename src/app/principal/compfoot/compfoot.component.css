@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+
+.footer{
+      display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 85px;
+    padding: 5px 10%;
+}
+
+.footer .nav_links {
+    list-style: none;
+}
+.footer .nav_links  img{
+    height: 120px;
+}
+
+.footer .nav_links li{
+    display: inline-block;
+    padding: 0 10px;
+    font-size: 17px;
+}
+
+.footer .nav_links a{
+   
+
+    color:  black;
+    text-decoration: none;
+
+  }
+
+  .footer .nav_links p{
+   
+
+    color:  gray;
+    
+
+  }
+
+  .footer .nav_links h3{
+   
+
+    color:  gray;
+    
+
+  }
