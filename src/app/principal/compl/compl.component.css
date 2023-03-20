@@ -44,3 +44,59 @@
     background-color: rgb(226, 72, 16);
 
 }
+
+/* ----------------aqui va la parte del movil ---------------------------------------
+-------------------------------------------------------------------------------------*/
+
+
+
+@media (max-width: 800px){
+
+   
+#compl img{
+    padding: 10px 16px;
+    height: 200px;
+    width: 90%;
+   
+}
+
+#compl #divicion{
+    display: block;
+    align-items: center;
+    
+    
+}
+
+#derecho {
+   
+    padding: 10px 16px;
+    height: auto;
+    width: 100%;
+    
+}
+
+#derecho h1{
+    font-size: 30px;
+}
+#izquierdo{
+   
+        padding: 16px;
+        height: auto;
+        width: 100%;
+    
+}
+#izquierdo p{
+    font-size: 30px;
+   
+}
+#izquierdo a{
+    border: solid rgb(255, 94, 0);
+    padding: 16px;
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(226, 72, 16);
+
+}
+
+
+}
